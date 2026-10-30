@@ -1,0 +1,39 @@
+{
+ "_note": "Tripo GLB\uff08\u5df2\u7528 gltf-transform \u4f18\u5316\uff09\u3002rotY \u4e3a\u671d\u5411\u4fee\u6b63\uff08\u5ea6\uff09\u3002",
+ "car_convertible_cream": {
+  "file": "assets/car_convertible_cream.glb",
+  "rotY": 0
+ },
+ "car_sedan_red": {
+  "file": "assets/car_sedan_red.glb",
+  "rotY": 0
+ },
+ "car_sedan_white": {
+  "file": "assets/car_sedan_white.glb",
+  "rotY": 0
+ },
+ "palm_a": {
+  "file": "assets/palm_a.glb",
+  "rotY": 0
+ },
+ "palm_b": {
+  "file": "assets/palm_b.glb",
+  "rotY": 0
+ },
+ "flamingo_sign": {
+  "file": "assets/flamingo_sign.glb",
+  "rotY": 0
+ },
+ "cafe_set": {
+  "file": "assets/cafe_set.glb",
+  "rotY": 0
+ },
+ "awning_striped": {
+  "file": "assets/awning_striped.glb",
+  "rotY": 0
+ },
+ "deco_facade": {
+  "file": "assets/deco_facade.glb",
+  "rotY": 0
+ }
+}
